@@ -1,2 +1,6 @@
-package org.example.factorymethod.notificationexample;public interface Notification {
+package org.example.factorymethod.notificationexample;
+
+public interface Notification {
+
+    void notifyUser();
 }

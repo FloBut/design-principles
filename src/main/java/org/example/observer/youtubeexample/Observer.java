@@ -1,2 +1,6 @@
-package org.example.observer.youtubeexample;public class Observer {
+package org.example.observer.youtubeexample;
+
+public interface Observer {
+
+    void udpate();
 }
